@@ -77,7 +77,7 @@ function updateScroll() {
 
 
 }
-<<<<<<< HEAD
+
 updateScroll()
 
 //Плавный скролл к ссылке на странице
@@ -96,10 +96,3 @@ document.querySelectorAll('a[href^="#"]').forEach(anchor => {
   addSmoothScroll(anchor);
 });
 addSmoothScroll(document.querySelector('.more-button'));
-=======
-
-
-
-
-updateScroll()
->>>>>>> 4d6ed8294381c44565bbad8a9a1efdcbe1ad35a5
